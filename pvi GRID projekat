@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+  <link rel="stylesheet" type="text/css" href="css/style_grid.css">
+
+
+    </head>
+
+     <body>
+
+
+    <section class="kutija">
+
+      <div class="box a">
+      <p> REBULIC OF GAMERS!!!</p>
+      </div>
+     <div class="box b">
+       <P>ASUS LOGO!!!</p>
+
+     </div>
+     <div class="box c">
+       <p>Please answer some of the questions!</p>
+
+     </div>
+     <div class="box d">
+       <img src="https://rog.asus.com/wp-content/uploads/2011/08/rog-logo-sketch.jpg"/>
+
+     </div>
+     <div class="box e">
+       <img src="https://i.ytimg.com/vi/Ab4DbCEhe90/hqdefault.jpg"/>
+
+     </div>
+     <div class="box f">
+       <img src="https://media.giphy.com/media/XpgOZHuDfIkoM/giphy.gif">
+
+
+       <div>
+         <p>Hvala na poseti?</p>
+         <h6>Kako vam se cini!!!</h6>
+       </div>
+
+     </div>
+
+
+
+      </section>
+
+      <footer>
+
+      </footer>
+
+
+     </body>
+
+</html>

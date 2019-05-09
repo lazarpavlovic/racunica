@@ -1,0 +1,161 @@
+.pregled{
+  grid-area: pregled;
+  justify-self: center;
+  align-self: center;
+}
+
+ .tekst{
+   grid-area: tekst;
+   border-style: solid;
+   color: #9099a8;
+   border-width: 2px 0px 2px 0px;
+   grid-gap: 10px;
+ }
+
+ .text1{
+   grid-area: text1;
+   border-style: solid;
+   color: #9099a8;
+   border-width: 2px 0px 2px 0px;
+   grid-gap: 10px;
+ }
+
+ .poslednje{
+   grid-area: poslednje;
+   border-style: solid;
+   color: #9099a8;
+   border-width: 2px 0px 2px 0px;
+   grid-gap: 10px;
+ }
+
+ .tablica{
+   grid-area: tabela;
+   justify-self: stretch;
+   align-self: stretch;
+ }
+
+ body{
+  background-color: white;
+}
+
+.move{
+  grid-area: navigacija;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+}
+
+.A{
+  grid-area: header;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+ .B{
+  grid-area: content;
+  grid-gap: 5px;
+  background-color: white;
+  text-align:  center;
+  justify-self: stretch;
+  align-self: stretch;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.C{
+   grid-area: sidebar;
+    background-color: white;
+    border-style: solid;
+    color: #9099a8;
+    border-width: 2px 0px 2px 0px;
+    grid-gap: 10px;
+}
+
+.D{
+  grid-area: footer;
+    background-color: white;
+    border-style: solid;
+    color: #9099a8;
+    border-width: 2px 0px 2px 0px;
+    grid-gap: 10px;
+}
+
+.grid{
+  display: grid;
+  grid-gap: 70px;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-areas:
+  ". navigacija tabela ."
+  ". pregled pregled ."
+  ". header content ."
+  ". header content ."
+  ". sidebar footer."
+  ". sidebar footer ."
+  ". . tekst ."
+  ". poslednje text1 ."
+  ". text2 text2 .";
+}
+
+.tablica{
+  float: left;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+
+.tablica a {
+  float: left;
+  width: 6em;
+  text-decoration: none;
+  color:  silver;
+  background-color: white;
+  padding: 0.2em 0.6em;
+  border-right: 1px solid:silver;
+}
+
+.text2{
+  grid-area: text2;
+  justify-self: stretch;
+  align-self: stretch;
+  background-color:  black;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 4px 0px 4px 0px;
+  grid-gap: 10px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: silver;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+
+img:hover{
+  opacity: 0.4;
+}

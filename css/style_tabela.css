@@ -1,0 +1,23 @@
+
+.A{
+  grid-area: okvir;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #68a0f9;
+  border-width: 7px 1px 1px 1px;
+}
+
+.B{
+  grid-area: pravougaonik;
+}
+
+.grid{
+  display: grid;
+  grid-gap: 40;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-areas:
+". okvir pravougaonik ."
+}

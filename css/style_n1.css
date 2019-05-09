@@ -1,0 +1,744 @@
+.A{
+  grid-area: text1;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  text-align: center;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+.B{
+  grid-area: text2;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+.C{
+  grid-area: text3;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.D{
+  grid-area: text4;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.F{
+  grid-area: text5;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.V{
+  grid-area: text6;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.Z{
+  grid-area: text7;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.M{
+  grid-area: text8;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.N{
+  grid-area: text9;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.O{
+  grid-area: text10;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.X{
+  grid-area: text11;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.E{
+  grid-area: text12;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.Q{
+  grid-area: text13;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.T{
+  grid-area: text14;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.G{
+  grid-area: text15;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.J{
+  grid-area: text16;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.W{
+  grid-area: text17;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.I{
+  grid-area: text18;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.L{
+  grid-area: text19;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+   border-width: 2px 0px 2px 0px;
+}
+
+.P{
+  grid-area: text20;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+border-width: 2px 0px 2px 0px;
+}
+
+.U{
+  grid-area: text21;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color:  blue;
+border-width: 0px 0px 0px 7px;
+}
+
+.Y{
+  grid-area: text22;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.o{
+  grid-area: text23;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.p{
+  grid-area: text24;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.u{
+  grid-area: text25;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.t{
+  grid-area: text26;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.f{
+  grid-area: text27;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.i{
+  grid-area: text28;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.y{
+  grid-area: text29;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.w{
+  grid-area: text30;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.q{
+  grid-area: text31;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.r{
+  grid-area: text32;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.d{
+  grid-area: text33;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.a{
+  grid-area: text34;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.s{
+  grid-area: text35;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.n{
+  grid-area: text36;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+ .m{
+   grid-area: text37;
+   background-color: white;
+   justify-self: stretch;
+   align-self: stretch;
+   grid-gap: 10px;
+   border-style: solid;
+   color: #9099a8;
+   border-width: 2px 0px 2px 0px;
+ }
+
+.h{
+  grid-area: text38;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.x{
+  grid-area: text39;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.j{
+  grid-area: text40;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.b{
+  grid-area: text41;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: orange;
+  border-width: 0px 0px 0px 7px;
+}
+
+.c{
+  grid-area: text42;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.z{
+  grid-area: text43;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.Ž{
+  grid-area: text44;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: green;
+  border-width: 0px 0px 0px 7px;
+}
+
+.Đ{
+  grid-area: text45;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.Š{
+  grid-area: text46;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.Ć{
+  grid-area: text47;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: brown;
+  border-width: 0px 0px 0px 7px;
+}
+
+.š{
+  grid-area: text48;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.đ{
+  grid-area: text49;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.ć{
+  grid-area: text50;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.ž{
+  grid-area: text51;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.op{
+  grid-area: text52;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.lk{
+  grid-area: text53;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.er{
+  grid-area: text54;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.ew{
+  grid-area: text55;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.zu{
+  grid-area: text56;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.po{
+  grid-area: text57;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.tr{
+  grid-area: text58;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.rt{
+  grid-area: text59;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.hg{
+  grid-area: text60;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.gh{
+  grid-area: text61;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.rip{
+  grid-area: rip;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+
+.grid{
+  display: grid;
+  grid-gap: 30px;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-template-areas:
+  ". text1 text2 text3 text4 text5 text6 text7 text8 ."
+  " text9 text9 text9 text9 text9 text9 text9 text9 text9 text9"
+  ". . text10 text10 text10 text10 text10 text10 . ."
+  ". text11 text12 text13 text14 text15 text16 text17 text18 ."
+  ". text19 text19 text19 text19 text19 text20 text20 text20 ."
+  ". text21 . . . . . . . ."
+  ". text22 text22 text22 text23 text23 text23 . . ."
+  ". text24 text24 text25 text25 text26 text26 text27 . ."
+  ". text28 text28 text29 text29 text30 text30 text31 . ."
+  ". text32 text32 text33 text33 text34 text34 text35 . ."
+  ". text36 text36 text37 text37 text38 text38 text39 . ."
+  ". . text40 text40 text40 text40 text40 . . ."
+  ". text41 . . . . . . . ."
+  ". text42 text42 text42 text43 text43 text43 text43 . ."
+  ". text44 . . . . . . . ."
+  ". text45 text45 text45 text46 text46 text46 text46 . ."
+  ". text47 . . . . . . . ."
+  ". text48 text48 text48 text49 text49 text49 text49 . ."
+  ". text50 text50 text51 text52 text52 text53 . . ."
+  ". text54 text54 text55 text56 text56 text57 . . ."
+  ". text58 text58 text59 text60 text60 text61 . . . "
+  "rip rip rip rip rip rip rip rip rip rip";
+}
+
+
+
+
+
+img:hover{
+  opacity: 0.4;
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: silver;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}

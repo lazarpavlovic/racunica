@@ -1,0 +1,53 @@
+<!DOCTYPE htm>
+<html>
+
+
+ <head>
+        <title>Dobrodosli!</title>
+
+
+        <link rel="stylesheet" type="text/css" href="css/reset.css">
+          <link rel="stylesheet" type="text/css" href="css/style.css">
+
+  </head>
+
+ <body style="background-color:silver">
+
+
+             <div id="header">
+
+ <h1>apple factory</h1>
+         <ul>
+         </ul>
+         <ul class="menu">
+              <li><a href="#">Pocetna</a></li>
+            <li><a href="#">O nama</a></li>
+            <li><a href="#">Linkovi</a></li>
+            <li><a href="#">Kontakt</a></li>
+
+             </div>
+     <div id="content">
+              <form class="forma">
+
+            <p>Dobrodosli na  web stranicu!</p>
+            <p>Kako vam se cini  stranica?</p>
+           <a href="http://www.google.com">google</a>
+         <P>Email:</p>
+         <input type="email" placeholder="Unesite Email"></inpunt>
+         <p>Lozinka</p>
+         <input type="password" placeholder="Unesite Lozinku"></input>
+         <input type="submit"></input>
+         	<img style="margin-left:20%" src="https://smhttp-ssl-23575.nexcesscdn.net/80ABE1/sflashrouters/wp/wp-content/uploads/2016/03/mac-apple-logo-screen-icon.png"alt="apple"></img>
+
+
+          <div id="push"></div>
+
+     </div>
+ <div id="footer">
+         <p>HVALA STO NAS POSECUJETE!!!</p>
+
+</div>
+
+ </body>
+
+</html>

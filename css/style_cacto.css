@@ -1,0 +1,182 @@
+
+
+ .A{
+   grid-area: text1;
+   background-color: white;
+   justify-self: center;
+   align-self: center;
+   grid-gap: 10px;
+ }
+
+.B{
+  grid-area: text2;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.C{
+  grid-area: text3;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.D{
+  grid-area: text4;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.F{
+  grid-area: text5;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.I{
+  grid-area: text6;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.O{
+  grid-area: text7;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.Q{
+  grid-area: text8;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.R{
+  grid-area: text9;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.P{
+  grid-area: text10;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.G{
+  grid-area: text11;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 2px 0px 2px 0px;
+}
+
+.grid{
+  display: grid;
+  grid-gap: 70px;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-areas:
+  ". text1 text2 ."
+  ". text3 text3 ."
+  ". text4 text5 ."
+  ". text6 text7 ."
+  ". . text8 ."
+  ". text9 text10 ."
+  ". text11 text11 .";
+}
+
+
+.B{
+  float: left;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+
+.B a {
+  float: left;
+  width: 6em;
+  text-decoration: none;
+  color:  silver;
+  background-color: white;
+  padding: 0.2em 0.6em;
+  border-right: 1px solid:silver;
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: silver;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+
+img:hover{
+  opacity: 0.4;
+}

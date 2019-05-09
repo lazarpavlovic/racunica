@@ -1,0 +1,212 @@
+
+body{
+  background-color: #474a4f;
+}
+.A{
+  grid-area: text1;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: #9099a8;
+  border-width: 0px 0px 0px 0px;
+}
+
+.B{
+  grid-area: text2;
+  background-color: black;
+  justify-self: stretch;
+  align-self: stretch;
+  text-align: center;
+  grid-gap: 10px;
+  border-style: solid;
+  color: white;
+  border-width: 0px 0px 0px 0px;
+}
+
+.C{
+  grid-area: text3;
+  background-color: black;
+  justify-self: stretch;
+  align-self: stretch;
+  text-align: center;
+  grid-gap: 10px;
+  border-style: solid;
+  color: white;
+  border-width: 0px 0px 0px 0px;
+}
+
+.D{
+  grid-area: text4;
+  background-color: black;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: white;
+  border-width: 0px 0px 0px 0px;
+}
+
+.F{
+  grid-area: text5;
+  background-color: black;
+  justify-self: stretch;
+  align-self: stretch;
+  text-align: center;
+  grid-gap: 10px;
+  border-style: solid;
+  color: white;
+  border-width: 0px 0px 0px 0px;
+}
+
+.E{
+  grid-area: text6;
+  background-color: black;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: white;
+  border-width: 0px 0px 0px 0px;
+}
+
+.Q{
+  grid-area: text7;
+  background-color: white;
+  justify-self: stretch;
+  align-self: stretch;
+  text-align: center;
+  grid-gap: 10px;
+  border-style: solid;
+  color: black;
+  border-width: 0px 0px 0px 0px;
+}
+
+.W{
+  grid-area: text8;
+  background-color: black;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: white;
+  border-width: 0px 0px 0px 0px;
+}
+
+.R{
+  grid-area: text9;
+  background-color: black;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: white;
+  border-width: 0px 0px 0px 0px;
+}
+
+.T{
+  grid-area: text10;
+  background-color: black;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: white;
+  border-width: 0px 0px 0px 0px;
+}
+
+.Y{
+  grid-area: text11;
+  background-color: black;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: white;
+  border-width: 0px 0px 0px 0px;
+}
+
+.U{
+  grid-area: text12;
+  background-color: black;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: white;
+  border-width: 0px 0px 0px 0px;
+}
+
+.I{
+  grid-area: text13;
+  background-color: black;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: white;
+  border-width: 0px 0px 0px 0px;
+}
+
+.O{
+  grid-area: text14;
+  background-color: black;
+  justify-self: stretch;
+  align-self: stretch;
+  grid-gap: 10px;
+  border-style: solid;
+  color: white;
+  border-width: 0px 0px 0px 0px;
+}
+
+
+.grid{
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-areas:
+  "text1 text1 text1 text1"
+  "text2 text2 text2 text2"
+  "text3 text3 text3 text3"
+  "text4 text4 text4 text4"
+  "text5 text5 text5 text5"
+  "text6 text6 text6 text6"
+  "text8 text8 text8 text8"
+  "text9 text9 text10 text10"
+  "text11 text11 text12 text12"
+  "text13 text13 text14 text14";
+}
+
+
+
+
+img:hover{
+  opacity: 0.4;
+}
+
+.btn-group button {
+  background-color: black; /* Green background */
+  border: 1px solid silver; /* Green border */
+  color: white; /* White text */
+  padding: 10px 24px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  float: center; /* Float the buttons side by side */
+}
+
+.btn-group button:not(:last-child) {
+  border-right: none; /* Prevent double borders */
+
+}
+
+/* Clear floats (clearfix hack) */
+.btn-group:after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/* Add a background color on hover */
+.btn-group button:hover {
+  background-color: black;
+}

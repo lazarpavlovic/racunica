@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="css/cacto.css">
+
+</head>
+
+<body>
+
+<section class="grid">
+  <div class="move">
+  <img width="50%" height="75%"  src="https://cactomain.co/img/cactomain-logo.png"/>
+</div>
+
+
+
+<section class="A">
+ <img width="100%" height="100%"src="https://cactomain.co/img/dashboard.png"/>
+</section>
+
+<section class="pregled">
+  <h2>No Bullshit Hosting. Hassle-Free. Just Domains.</h2>
+  <p>A domain name registrar, with focus on great user experience and phenomenal user interface.</p>
+  <button type="button">Watch Video</button>
+  <button type="button">Sign up</button>
+</section>
+
+
+<section class="B">
+  <h3> Cactomain Dashboard
+  Practical dashboard</h3>
+  <p>We pay attention to details, that's why our dashboard and the rest of the application looks like something you'll enjoy using. </p>
+ </section>
+
+<section class="C">
+  <img width="100%" height="100%" src="https://cactomain.co/img/transfer-public.png"/>
+</section>
+
+
+<section class="D">
+  <h3>Cactomain Transfer
+Transfer as it should be</h3>
+  <p>We believe that transfer process must be much easier, and we’re on a mission to make that possible! Step by step we’ll help you to join us.</p>
+</section>
+
+
+<section class="tablica"
+ <li><a href="#">Register domain</a></li>
+ <li><a href="#">Pricing</a></li>
+ <li><a href="#">Sigin in</a></li>
+ <li><a href="#">Sigin up</a></li>
+</section>
+
+
+ <section class="tekst">
+   <h3>Easy peasy process</h3>
+   <p>Your idea is precious! That’s why we minimised and improved the process of registering domains.</p>
+</section>
+
+
+<section class="poslednje">
+  <img width="100%" height="100%" src="https://cactomain.co/img/invoice.png">
+</section>
+
+
+<section class="text1">
+  <h3>Transparent pricing</h3>
+  <p>One domain — one price to remember, no matter if you're registering, renewing or transfering it, with always free whois privacy.</p>
+</section>
+
+<section class="text2">
+  <ul>
+   <li><a href="default.asp">Home</a></li>
+   <li><a href="news.asp">News</a></li>
+   <li><a href="contact.asp">Contact</a></li>
+   <li><a href="about.asp">About</a></li>
+  </ul>
+</section>
+
+
+
+
+
+
+</section>
+</body>
+</html>

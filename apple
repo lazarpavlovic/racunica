@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="css/style_apple.css">
+
+</head>
+<body>
+
+
+<section class="grid">
+
+
+<section class="A">
+<img width="100%" height="100%" src="slika/apple.png">
+</section>
+
+
+<section class="B">
+<img width="100%" height="100%" src="slika/obavestenje.png">
+</section>
+
+
+<section class="D">
+<img width="100%" height="100%" src="slika/iphonex.png">
+</section>
+
+
+<section class="F">
+
+</section>
+
+
+<section class="E">
+<img width="100%" height="100%" src="slika/iphone.png">
+</section>
+
+
+<section class="Q">
+
+</section>
+
+
+<section class="W">
+<img width="100%" height="100%" src="slika/watch.png">
+</section>
+
+
+<section class="R">
+<img width="100%" height="100%" src="slika/joga.png">
+</section>
+
+
+<section class="T">
+<img width="100%" height="100%" src="slika/ipad.png">
+</section>
+
+
+<section class="Y">
+<img width="100%" height="1005" src="slika/mac.png">
+</section>
+
+
+<section class="U">
+<img width="100%" height="100%" src="slika/itunes.png">
+</section>
+
+<section class="I">
+<img width="100%" height="100%" src="slika/ipod.png">
+</section>
+
+
+<section class="O">
+  <img width="100%" height="100%" src="slika/home.png">
+
+
+
+
+
+
+
+
+
+
+</section>
+</body>
+</html>
